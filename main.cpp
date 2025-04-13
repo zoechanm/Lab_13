@@ -2,13 +2,6 @@
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-void greet() {
-        cout << "Hello from greet()" << endl;
-}
-
-void bye() {
-        cout << "Goodbye from bye()" << endl;
-}
 int main() {
         //problem 1
         //     int arr[5];
